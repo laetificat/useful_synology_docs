@@ -1,0 +1,1 @@
+# Installing Symfony on Synology NAS
